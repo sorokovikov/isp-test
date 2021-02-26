@@ -1,0 +1,40 @@
+# isp-test - Калькулятор
+Для нахождения десятичного логарифма, используйте функцию `log10(x)`.
+## Список поддерживаемых функци:
+- min
+- max
+- avg
+- sum
+- abs
+- ceil
+- floor
+- round
+- roundn
+- exp
+- log
+- log10
+- logn
+- pow
+- root
+- sqrt
+- clamp
+- inrange
+- swap
+- sin
+- cos
+- tan
+- acos
+- asin
+- atan
+- atan2
+- cosh
+- cot
+- csc
+- sec
+- sinh
+- tanh
+- d2r
+- r2d
+- d2g
+- g2d
+- hyp
